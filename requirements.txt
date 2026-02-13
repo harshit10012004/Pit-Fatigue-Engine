@@ -1,0 +1,8 @@
+pandas==2.3.3
+numpy==2.3.5
+psycopg2-binary==2.9.11
+fastf1==3.7.0
+matplotlib==3.10.8
+seaborn==0.13.2
+jupyter==1.1.1
+
